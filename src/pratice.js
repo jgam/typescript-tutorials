@@ -1,0 +1,11 @@
+var count = 0;
+count += 1;
+// count = '문자열';
+var message = 'hello world';
+var done = false;
+var numbers = [1, 2, 3];
+var messages = ['hello', 'world'];
+// messages.push(1);
+var mightBeUndefined = undefined;
+mightBeUndefined = 'hey';
+var nullabaleNumber = null;
